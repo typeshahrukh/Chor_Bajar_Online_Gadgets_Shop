@@ -25,7 +25,6 @@ To run the website, simply download or clone the repository and open the index.h
 
 bash
 
-git clone https://github.com/your-username/electronic-shop.git
 cd electronic-shop
 open index.html
 
